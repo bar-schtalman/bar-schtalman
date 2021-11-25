@@ -2,7 +2,7 @@
 ### Languages and Tools:
 <img align="left" alt="c" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="c++" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="java" width="45px" src="https://dev.java/assets/images/java-logo-vert-blk.png" />
 <img align="left" alt="python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="xml" width="45px" src="https://w7.pngwing.com/pngs/567/540/png-transparent-yaml-computer-icons-xml-document-file-format-mp4-icon-blue-angle-text-thumbnail.png" />
 <img align="left" alt="linux" width="45px" src="https://logopond.com/logos/764befce2161b53b5895108e1e8597d7.png" />
