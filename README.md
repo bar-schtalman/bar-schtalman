@@ -10,7 +10,7 @@
 [<img align="left" alt="eclipse" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" />]
 [<img align="left" alt="intellij" width="45px" src="https://toppng.com/uploads/preview/intellij-idea-logo-11609365307w3w15x9ipq.png" />]
 [<img align="left" alt="pychram" width="26px" src="https://banner2.cleanpng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg" />]
-[<img align="left" alt="Android studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/androidstudio/androidstudio.png" />]
+[<img align="left" alt="Android studio" width="26px" src="https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png" />]
 <!--
 **bar-schtalman/bar-schtalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
