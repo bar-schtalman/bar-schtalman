@@ -1,6 +1,7 @@
 ### Hi there 👋 , Im Bar Schtalman, Computer science and Math student at Ariel university, currently 3rd year.
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="45px" src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" />[<img align="left" alt="c" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Visual Studio Code" width="45px" src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" />
+<img align="left" alt="c" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="c++" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
