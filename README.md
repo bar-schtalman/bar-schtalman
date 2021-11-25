@@ -4,7 +4,6 @@
 <img align="left" alt="c++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="java" width="45px" src="https://dev.java/assets/images/java-logo-vert-blk.png" />
 <img align="left" alt="python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="xml" width="45px" src="https://w7.pngwing.com/pngs/567/540/png-transparent-yaml-computer-icons-xml-document-file-format-mp4-icon-blue-angle-text-thumbnail.png" />
 <img align="left" alt="linux" width="45px" src="https://logopond.com/logos/764befce2161b53b5895108e1e8597d7.png" />
 <img align="left" alt="Android studio" width="70px" src="https://www.quantow.com/wp-content/uploads/2015/12/android-studio-logo.jpg" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://e7.pngegg.com/pngimages/910/226/png-clipart-visual-studio-2010-developpez-pour-le-web-avec-c-4-framework-entity-4-asp-net-4-silverlight-4-et-wcf-ria-services-logo-visual-basic-microsoft-visual-studio-visual-programming.png" />
