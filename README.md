@@ -11,8 +11,7 @@
 [<img align="left" alt="android studio" width="75" src="https://www.xda-developers.com/files/2018/03/android-studio-logo.png" />]
 [<img align="left" alt="intellij" width="45px" src="https://toppng.com/uploads/preview/intellij-idea-logo-11609365307w3w15x9ipq.png" />]
 [<img align="left" alt="linux" width="45px" src="https://logopond.com/logos/764befce2161b53b5895108e1e8597d7.png" />]
-[<img align="left" alt="pychram" width="26px" src="https://banner2.cleanpng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg
-" />]
+[<img align="left" alt="pychram" width="26px" src="https://banner2.cleanpng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg" />]
 
 [<img align="left" alt="Android studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/androidstudio/androidstudio.png" />]
 
