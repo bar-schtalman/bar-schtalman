@@ -1,5 +1,9 @@
 ### Hi there 👋 , Im Bar Schtalman, Computer science and Math student at Ariel university, currently 3rd year.
-### <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?bar-schtalman" frameborder="0"></iframe>
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/f94302e16cff25555bad765fd537886f380afd45/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/f94302e16cff25555bad765fd537886f380afd45/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/f94302e16cff25555bad765fd537886f380afd45/topics/c/c.png" />][webdevplaylist]
 
 <!--
 **bar-schtalman/bar-schtalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
