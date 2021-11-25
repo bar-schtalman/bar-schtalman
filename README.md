@@ -9,7 +9,7 @@
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="xml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xml/xml.png" />]
 [<img align="left" alt="eclipse" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eclipse/eclipse.png" />]
-[<img align="left" alt="android studio" width="26px" src="https://www.meme-arsenal.com/memes/22e2d8ccdfb8a881ad844d30d9eb349d.jpg" />]
+[<img align="left" alt="android studio" width="35px" src="https://www.meme-arsenal.com/memes/22e2d8ccdfb8a881ad844d30d9eb349d.jpg" />]
 [<img align="left" alt="intellij" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij/intellij.png" />]
 [<img align="left" alt="virtual studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij/intellij.png" />]
 
