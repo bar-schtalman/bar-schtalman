@@ -1,4 +1,4 @@
-### Hi there 👋 , Im Bar Schtalman, Computer science and Math student at Ariel university, currently 3rd year.
+### Hi there! 👋 I’m Bar Schtalman, a Computer Science and Math graduate from Ariel University. Passionate about problem-solving, algorithms, and creating meaningful software. Let’s keep coding and learning together!
 ### Languages and Tools:
 <img align="left" alt="c" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="c++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
